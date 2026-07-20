@@ -1,5 +1,5 @@
 # TAREA DE FLUJO 2
-Crear un programa en C# que lea el sueldo de un empleado, calcule el ISR (Impuesto Sobre la Renta) y muestre en pantalla el resultado, de acuerdo con una escala salarial disponible en la plataforma de la DGII.
+"Utilizando bucles, crea un programa que permita al usuario introducir las 4 calificaciones de n cantidad de estudiantes, calcular el promedio y determinar si aprobó o reprobó, el resultado en pantalla debería ser de esta manera."
 
 # FUNCIONAMIENTO:
 Este programa gestiona un sistema de calificación académica con las siguientes funciones principales:  
