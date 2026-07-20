@@ -9,8 +9,13 @@ Este programa gestiona un sistema de calificación académica con las siguientes
 - Procesamiento: Utiliza la clase Estudiante para calcular automáticamente el promedio de las notas y determinar si el alumno está "Aprobado" (promedio ≥ 70) o "Reprobado".
   
 - Visualización: Muestra un reporte tabulado final con todos los datos ingresados, promedios y el estatus académico de cada estudiante.  
-# MUESTRA DE ESCENARIOS:
+# EVIDENCIAS DEL FUNCIONAMIENTO:
 
-### Ingreso de datos
-![Captura del ingreso de estudiantes](assets/Foto3.png)
+A continuación, se presentan las capturas de pantalla que demuestran el flujo del programa:
 
+| Etapa | Captura |
+| :--- | :--- |
+| **Inicio y datos** | ![Inicio](ESCENARIOS/Foto4.png) |
+| **Ingreso de notas** | ![Notas](ESCENARIOS/Foto3.png) |
+| **Continuación** | ![Continuación](ESCENARIOS/Foto2.png) |
+| **Resultados finales** | ![Resultados](ESCENARIOS/Foto1.png) |
